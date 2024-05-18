@@ -118,13 +118,13 @@ font-weight: 700;
 
 .button-add-task:hover{
 
-    opacity: .8;
+    opacity: 0.8;
 
 }
 
 .button-add-task:active{
 
-    opacity: .6;
+    opacity: 0.6;
 
 }
 
